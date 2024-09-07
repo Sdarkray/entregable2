@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\taller\trabajo\bin\Debug\net8.0\trabajo.exe
+C:\Users\User\Desktop\taller\trabajo\bin\Debug\net8.0\trabajo.deps.json
+C:\Users\User\Desktop\taller\trabajo\bin\Debug\net8.0\trabajo.runtimeconfig.json
+C:\Users\User\Desktop\taller\trabajo\bin\Debug\net8.0\trabajo.dll
+C:\Users\User\Desktop\taller\trabajo\bin\Debug\net8.0\trabajo.pdb
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.AssemblyInfo.cs
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.dll
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\refint\trabajo.dll
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.pdb
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\trabajo.genruntimeconfig.cache
+C:\Users\User\Desktop\taller\trabajo\obj\Debug\net8.0\ref\trabajo.dll
